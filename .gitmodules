@@ -1,0 +1,15 @@
+[submodule "external/Joyful"]
+	path = external/Joyful
+	url = https://github.com/tejasr20/Joyful.git
+[submodule "external/MultiEMO"]
+	path = external/MultiEMO
+	url = https://github.com/tejasr20/MultiEMO.git
+[submodule "external/COGMEN"]
+	path = external/COGMEN
+	url = https://github.com/tejasr20/COGMEN.git
+[submodule "external/conv-emotion"]
+	path = external/conv-emotion
+	url = https://github.com/tejasr20/conv-emotion.git
+[submodule "external/Modified-Label-Studio"]
+	path = external/Modified-Label-Studio
+	url = https://github.com/tejasr20/Modified-Label-Studio.git
